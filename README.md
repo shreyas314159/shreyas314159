@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently learning full stack web development going through the complete Learn Enough course. After a couple of failed attempts learning coding in a structured manner, I'm at it again. For 2024, I've taken a resolution to learn Ruby on Rails—-a fantastic framework for building modern web applications.
+After a couple of failed attempts learning coding in a structured manner, I'm at it again. For 2024, I've taken a resolution to learn Ruby on Rails—-a fantastic framework for building modern web applications.
 
 These badges show that I have completed the online courses for <a href="https://www.learnenough.com/certificates/shreyas314159/command-line-tutorial">Learn Enough Command Line to Be Dangerous </a>, <a href="https://www.learnenough.com/certificates/shreyas314159/text-editor-tutorial">Learn Enough Text Editor to Be Dangerous</a> and <a href="https://www.learnenough.com/certificates/shreyas314159/git-tutorial">Learn Enough Git to be Dangerous</a>. I'm inching my way to learn HTML, CSS, Python, Javascript and then *finally*, Ruby on Rails!
 
