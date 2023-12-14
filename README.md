@@ -23,4 +23,5 @@ These badges show that I have completed the online courses for <a href="https://
 
 With RoR, I would (hopefully) get to a point where I could build and ship prototypes/apps fast. 
 
-You could find out more on my work through my <a href="https://www.shreyasprakash.com">personal website</a>.
+For additional insights into my professional work, please explore my <a href="https://www.shreyasprakash.com">personal website</a>.
+
